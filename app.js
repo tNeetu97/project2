@@ -1,2 +1,2 @@
-// add a feature-button-a
+// add a feature-button-a.
 
